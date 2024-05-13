@@ -39,7 +39,7 @@ the script. Put either 'PC' or 'Scanner'.
 Once you will Run the script you will be asked to select some variables:
 
 1. Group: ctrl is defined as default
-2. SubID : first 2 letters of Name + first 2 letters of Surname (e.g. Mickey Mouse == MiMo).
+2. SubID
 3. Start with condition : VisualLinguistic (VL) or NonLinguistic (NL)
 
 ## Script information 
