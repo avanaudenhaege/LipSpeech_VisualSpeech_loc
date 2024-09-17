@@ -1,8 +1,15 @@
-# VISUAL SPEECH: localizer
+# VISUAL SPEECH REGIONS: localizer
 
-script from Stefania Mattioni - adapted by Alice Van Audenhaege
+script by Alice Van Audenhaege (adapted from S. Mattioni)
 
 March 2023
+
+## STIMULI
+
+To be used with a folder named `stimuli` containing the following files stored
+on OSF in `VisualSpeech-loc_stimuli.zip`
+
+https://osf.io/2xtsn/?view_only=22f09bb4dc5f4a11823103141ca2f735
 
 ## RUN DESCRIPTION
 
@@ -69,9 +76,3 @@ What has to be defined to run the script
 % before the end (e.g. forced to stop, the script crash etc.), while the
 % mat file will be stored only if the experiment arrives till the end.
 
-## STIMULI
-
-To be used with a folder named `stimuli` containing the following files stored
-on OSF in `VisualSpeech-loc_stimuli.zip`
-
-https://osf.io/2xtsn/?view_only=22f09bb4dc5f4a11823103141ca2f735
